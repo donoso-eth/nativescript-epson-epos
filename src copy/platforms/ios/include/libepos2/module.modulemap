@@ -1,0 +1,1 @@
+module libepos2 { explicit module libepos2 { header "ePOS2.h" } }
